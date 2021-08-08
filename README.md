@@ -15,3 +15,4 @@ How to use relative absolute fixed position and z-index
 
 * HINT: Use the code from the last few activities to help get you started.
 ![Image to use](4-positioningActivity.png)
+* Now we can move to more advanced activities.
